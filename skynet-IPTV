@@ -585,3 +585,53 @@ https://spi-filmstream-1-in.samsung.wurl.com/manifest/playlist.m3u8
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 #EXTINF:-1 tvg-name="HollyWire" tvg-logo="https://i.imgur.com/BT31YWz.png" group-title="Entertainment",HollyWire
 https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Yahoo! News" tvg-logo="https://i.imgur.com/lRiHgGi.jpg" group-title="News",Yahoo! News
+https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
+#EXTINF:-1 tvg-name="Animax Japan" tvg-logo="https://i.imgur.com/ktJEsBl.jpg" group-title="Anime",Animax Japan
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Anime All Ages" tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="Anime",Pluto TV Anime All Ages
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-name="Pluto TV Comedy Central Animation" tvg-logo="http://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="Comedy",Pluto TV Comedy Central Animation
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JYOmO9R.jpg" group-title="Science",CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-name="Dove Channel" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="Entertainment",Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 tvg-name="1HD Music Television" tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="Music",1HD Music Television
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Entertainment",The Pet Collective
+https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/9a0bc894-3507-4712-ac73-40ae060ddbef/3.m3u8
+#EXTINF:-1 tvg-name="The Pet Collective (England)" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Entertainment",The Pet Collective (England)
+https://the-pet-collective-international-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Music India" tvg-logo="https://i.imgur.com/F7tPCwh.png" group-title="Music",Music India
+http://14.199.164.20:4001/play/a0mt/index.m3u8
+#EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://i.imgur.com/BvAXCNf.png" group-title="Bollywood",Zee Action
+https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Anmol Cinema" tvg-logo="https://i.imgur.com/Q4EPY7H.jpg" group-title="Bollywood",Zee Anmol Cinema
+https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Cafe" tvg-logo="https://i.imgur.com/citiHu6.jpg" group-title="Entertainment",Zee Cafe
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema Middle East" tvg-logo="https://i.imgur.com/IuGJxb9.jpg" group-title="Bollywood",Zee Cinema Middle East
+https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema UK" tvg-logo="https://i.imgur.com/IuGJxb9.jpg" group-title="Bollywood",Zee Cinema UK
+https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema USA" tvg-logo="https://i.imgur.com/IuGJxb9.jpg" group-title="Bollywood",Zee Cinema USA
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Bollywood" tvg-logo="https://i.imgur.com/c7zchc8.jpg" group-title="Bollywood",Zee Bollywood
+https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Magic" tvg-logo="https://i.imgur.com/mksBiKH.jpg" group-title="Entertainment",Zee Magic
+https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Smile USA" tvg-logo="https://i.imgur.com/52vSTpS.jpg" group-title="Entertainment",Zee Smile USA
+https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee TV APAC" tvg-logo="https://i.imgur.com/z1CztnY.jpg" group-title="Entertainment",Zee TV APAC
+https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee TV Canada" tvg-logo="https://i.imgur.com/z1CztnY.jpg" group-title="Entertainment",Zee TV Canada
+https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee TV Middle East" tvg-logo="https://i.imgur.com/z1CztnY.jpg" group-title="Entertainment",Zee TV Middle East
+https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee TV USA" tvg-logo="https://i.imgur.com/z1CztnY.jpg" group-title="Entertainment",Zee TV USA
+https://f8e7y4c6.ssl.hwcdn.net/ztvsdusa/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee World" tvg-logo="https://i.imgur.com/g7htiaB.jpg" group-title="Entertainment",Zee World
+https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
+#EXTINF:-1 tvg-name="TG Junior" tvg-logo="https://i.imgur.com/zaIrTLu.jpg" group-title="Kids",TG Junior
+https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
