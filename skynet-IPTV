@@ -77,7 +77,7 @@ http://58.65.194.14:1935/live/Planet%20Earth%20HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Familymovieshd.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Extreme Sports HD" tvg-logo="https://i.imgur.com/a6CHF8u.jpg" group-title="Sports",Extreme Sports HD
 http://58.65.194.14:1935/live/Extreme%20Sports%20HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://i.imgur.com/t2oRpPG.jpg" group-title="Kids",Boomerang
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://i.imgur.com/6u1qFWG.png" group-title="Kids",Boomerang
 http://58.65.194.14:1935/live/HBO.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Euro Sports 2 HD" tvg-logo="https://i.imgur.com/5Ucrlvj.jpg" group-title="Sports",Euro Sports 2 HD
 http://58.65.194.14:1935/live/Eurosport-2-HD.stream/playlist.m3u8
@@ -263,7 +263,7 @@ https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC Stories" tvg-logo="https://i.imgur.com/Y1vVY7F.jpg" group-title="Hollywood",AMC Stories
 https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="AMC Rush" tvg-logo="https://i.imgur.com/Jp4o15B.jpg" group-title="Entertainment",AMC Rush
+#EXTINF:-1 tvg-name="AMC Thrillers" tvg-logo="https://i.imgur.com/uhEGgpI.jpg" group-title="Entertainment",AMC Thrillers
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="IFC Slightly Off" tvg-logo="https://i.imgur.com/yMdngsY.jpg" group-title="Hollywood",IFC Slightly Off
 https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
@@ -356,7 +356,7 @@ https://inwonder-samsungau.amagi.tv/playlist720.m3u8
 #EXTINF:-1 tvg-name="Jewelry TV" tvg-logo="https://i.imgur.com/RBDORVv.jpg" group-title="Lifestyle",Jewelry TV
 http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
 #EXTINF:-1 tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="Comedy",Just for Laughs Gags
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="Kadak Hits" tvg-logo="https://i.imgur.com/JafqePz.jpg" group-title="Music",Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF:-1 tvg-name="Ketchup TV" tvg-logo="https://i.imgur.com/NOX2zse.png" group-title="Kids",Ketchup TV
@@ -636,5 +636,18 @@ https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
 #EXTINF:-1 tvg-name="TG Junior" tvg-logo="https://i.imgur.com/zaIrTLu.jpg" group-title="Kids",TG Junior
 https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="RT America" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT America
-http://ott-cdn.ucom.am/s96/index.m3u8
-
+http://rt-usa.secure.footprint.net:80/1105.m3u8
+#EXTINF:-1 tvg-name="Hallmark Channel" tvg-logo="" group-title="Hollywood",Hallmark Channel
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Hallmark Drama" tvg-logo="" group-title="Hollywood",Hallmark Drama
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Hallmark Movies & More" tvg-logo="" group-title="Hollywood",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Hallmark Movies & Mysteries" tvg-logo="" group-title="Hollywood",Hallmark Movies & Mysteries
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Hell's Kitchen" tvg-logo="" group-title="Cooking",Hell's Kitchen
+https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8
+#EXTINF:-1 tvg-name="Hi-Yah!" tvg-logo="" group-title="Nature",Hi-Yah!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Samsung Wildlife" tvg-logo="" group-title="Nature",Samsung Wildlife
+https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
