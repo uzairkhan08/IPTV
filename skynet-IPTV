@@ -530,7 +530,7 @@ https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Z Living USA" tvg-logo="https://i.imgur.com/LB1iKfM.jpg" group-title="Lifestyle",Z Living USA
 https://f8e7y4c6.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 tvg-name="Hallmark Movies & More" tvg-logo="https://i.imgur.com/JMn9sxk.png" group-title="Hollywood",Hallmark Movies & More
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="iFood.TV" tvg-logo="https://i.imgur.com/GnmHLNB.png" group-title="Cooking",iFood.TV
 https://ifood-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="IMPACT! Wrestling" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="Sports",IMPACT! Wrestling
@@ -577,10 +577,8 @@ https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 https://simultv.s.llnwi.net/o054/CowboyTheater/interlink.m3u8
 #EXTINF:-1 tvg-name="Cut Up N Cook" tvg-logo="" group-title="Cooking",Cut Up N Cook
 https://simultv.s.llnwi.net/n4s4/CutUpNCook/interlink.m3u8
-#EXTINF:-1 tvg-name="FilmStreams 1" tvg-logo="https://i.imgur.com/UJPFXKR.jpg" group-title="Hollywood",FilmStreams 1
+#EXTINF:-1 tvg-name="FilmStreams" tvg-logo="https://i.imgur.com/UJPFXKR.jpg" group-title="Hollywood",FilmStreams
 https://spi-filmstream-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="FilmStreams 2" tvg-logo="https://i.imgur.com/UJPFXKR.jpg" group-title="Hollywood",FilmStreams 2
-https://spi-filmstream-1-in.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Freebie TV" tvg-logo="https://i.imgur.com/LWVDmX7.jpg" group-title="Entertainment",Freebie TV
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 #EXTINF:-1 tvg-name="HollyWire" tvg-logo="https://i.imgur.com/BT31YWz.png" group-title="Entertainment",HollyWire
@@ -637,17 +635,5 @@ https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
 https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="RT America" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT America
 http://rt-usa.secure.footprint.net:80/1105.m3u8
-#EXTINF:-1 tvg-name="Hallmark Channel" tvg-logo="" group-title="Hollywood",Hallmark Channel
-https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="Hallmark Drama" tvg-logo="" group-title="Hollywood",Hallmark Drama
-https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="Hallmark Movies & More" tvg-logo="" group-title="Hollywood",Hallmark Movies & More
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="Hallmark Movies & Mysteries" tvg-logo="" group-title="Hollywood",Hallmark Movies & Mysteries
-https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="Hell's Kitchen" tvg-logo="" group-title="Cooking",Hell's Kitchen
-https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8
-#EXTINF:-1 tvg-name="Hi-Yah!" tvg-logo="" group-title="Nature",Hi-Yah!
+#EXTINF:-1 tvg-name="Hi-Yah!" tvg-logo="https://i.imgur.com/iYKrdKw.png" group-title="Hollywood",Hi-Yah!
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="Samsung Wildlife" tvg-logo="" group-title="Nature",Samsung Wildlife
-https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
