@@ -268,9 +268,9 @@ https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="IFC Slightly Off" tvg-logo="https://i.imgur.com/yMdngsY.jpg" group-title="Hollywood",IFC Slightly Off
 https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="& Flix" tvg-logo="https://i.imgur.com/IkiDGab.jpg" group-title="Hollywood",& Flix
-http://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+http://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-name="& privé HD" tvg-logo="https://i.imgur.com/exvZIuu.jpg" group-title="Hollywood",& privé HD
-http://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-name="AXS TV Now" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="General",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" group-title="Cooking",BBC Food
@@ -636,4 +636,4 @@ https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="RT America" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT America
 http://rt-usa.secure.footprint.net:80/1105.m3u8
 #EXTINF:-1 tvg-name="Hi-Yah!" tvg-logo="https://i.imgur.com/iYKrdKw.png" group-title="Hollywood",Hi-Yah!
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
