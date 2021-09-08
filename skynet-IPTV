@@ -653,3 +653,13 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
 #EXTINF:-1 tvg-name="FOX News Now" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Fashion TV Mumbai" tvg-logo="https://i.imgur.com/xCVgmpK.jpg" group-title="Fashion",Fashion TV Mumbai
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/chunklist_b5192000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-name="Fashion TV Tokyo" tvg-logo="https://i.imgur.com/xCVgmpK.jpg" group-title="Fashion",Fashion TV Tokyo
+https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Fashion TV New York" tvg-logo="https://i.imgur.com/xCVgmpK.jpg" group-title="Fashion",Fashion TV New York
+https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="FashionBox HD" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd03df5beda3db47bf0f2" group-title="Fashion",FashionBox HD
+https://fashionbox-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-name="FailArmy International" tvg-logo="https://i.imgur.com/nbzbHum.png" group-title="Comedy",FailArmy International
+http://failarmy-international-in.samsung.wurl.com/manifest/playlist.m3u8
