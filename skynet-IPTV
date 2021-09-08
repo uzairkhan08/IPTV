@@ -407,8 +407,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 https://shls-mbc1ksa-ak.akamaized.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
 #EXTINF:-1 tvg-name="MBC 1 USA" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Drama",MBC 1 USA
 https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
-#EXTINF:-1 tvg-name="MBC USA" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Drama",MBC USA
-https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
 #EXTINF:-1 tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Hollywood",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:-1 tvg-name="MBC 3 USA" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",MBC 3 USA
@@ -634,6 +632,24 @@ https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
 #EXTINF:-1 tvg-name="TG Junior" tvg-logo="https://i.imgur.com/zaIrTLu.jpg" group-title="Kids",TG Junior
 https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="RT America" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT America
-http://rt-usa.secure.footprint.net:80/1105.m3u8
+http://ott-cdn.ucom.am/s96/index.m3u8
 #EXTINF:-1 tvg-name="Hi-Yah!" tvg-logo="https://i.imgur.com/iYKrdKw.png" group-title="Hollywood",Hi-Yah!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Netmax TV" tvg-logo="https://i.imgur.com/qlXgPgt.jpg" group-title="Entertainment",Netmax TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:-1 tvg-name="B4U Kadak" tvg-logo="https://i.imgur.com/JOAqKOS.jpg" group-title="Bollywood",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-name="B4U Music" tvg-logo="https://i.imgur.com/LZxPgLh.png" group-title="Music",B4U Music
+http://14.199.164.20:4001/play/a0wk/index.m3u8
+#EXTINF:-1 tvg-name="B4U Movies" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Bollywood",B4U Movies
+http://14.199.164.20:4001/play/a0wj/index.m3u8
+#EXTINF:-1 tvg-name="InBites TV" tvg-logo="https://i.imgur.com/ZqLKVzK.jpg" group-title="Entertainment",InBites TV
+https://inshort-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Supertoons" tvg-logo="https://i.imgur.com/iVeuci8.jpg" group-title="Kids",Supertoons
+https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="News",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 tvg-name="FOX News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="News",FOX News
+http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
+#EXTINF:-1 tvg-name="FOX News Now" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
