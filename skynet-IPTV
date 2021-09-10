@@ -183,7 +183,7 @@ http://58.65.194.14:1935/live/DTXHD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/CGTN.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="SciFi HD" tvg-logo="https://i.imgur.com/oEuL2Jr.jpg" group-title="Drama",SciFi HD
 http://58.65.194.14:1935/live/ScifiUniversal.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="NAT Geo Wild HD" tvg-logo="https://i.imgur.com/c6rW3f2.jpg" group-title="Nature",NAT Geo Wild HD
+#EXTINF:-1 tvg-name="NAT Geo Wild HD" tvg-logo="https://i.imgur.com/c6rW3f2.jpg" group-title="Nature & Animals",NAT Geo Wild HD
 http://58.65.194.14:1935/live/Nat-Geo-Wild-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="NAT Geo People HD" tvg-logo="https://i.imgur.com/10XQIcz.jpg" group-title="Reality",NAT Geo People HD
 http://58.65.194.14:1935/live/NatGeoPeopleHD.stream/playlist.m3u8
@@ -331,7 +331,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 #EXTINF:-1 tvg-name="Gameshow Network" tvg-logo="https://i.imgur.com/gxHuyj1.png" group-title="Entertainment",Gameshow Network
 https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Gametoon" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dcef57b79a227b5568d84" group-title="Entertainment",Gametoon
+#EXTINF:-1 tvg-name="Gametoon" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dcef57b79a227b5568d84" group-title="Tech & E-Sports",Gametoon
 https://gametoon-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM Maxx" tvg-logo="https://www.gemonline.tv/Assets/channels-box/maxx.png?14" group-title="Entertainment",GEM Maxx
 https://stream-cdn.gemonline.tv/live/gemmaxx/index.m3u8
@@ -349,7 +349,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Hollywood",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 tvg-name="Inwild HD" tvg-logo="https://i.imgur.com/qWbaRjq.jpg" group-title="Nature",Inwild HD
+#EXTINF:-1 tvg-name="Inwild HD" tvg-logo="https://i.imgur.com/qWbaRjq.jpg" group-title="Nature & Animals",Inwild HD
 https://inwild-samsungau.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 tvg-name="Inwonder HD" tvg-logo="https://i.imgur.com/ZHteg6a.jpg" group-title="General",Inwonder HD
 https://inwonder-samsungau.amagi.tv/playlist720.m3u8
@@ -397,7 +397,7 @@ https://linear-201.frequency.stream/dist/localnow/201/hls/master/playlist.m3u8
 https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Loop Hottest" tvg-logo="https://i.imgur.com/PI9mLzN.jpg" group-title="Music",Loop Hottest
 https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="https://i.imgur.com/PemTZta.png" group-title="Nature",Love Nature HD
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="https://i.imgur.com/PemTZta.png" group-title="Nature & Animals",Love Nature HD
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="Maha Movie" tvg-logo="https://i.imgur.com/dlnuMfQ.jpg" group-title="Bollywood",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
@@ -427,8 +427,6 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-name="Metal TV" tvg-logo="https://i.imgur.com/muWkHL3.jpg" group-title="Music",Metal TV
 https://v1.catcast.tv/content/33816/index.m3u8
-#EXTINF:-1 tvg-name="Movie Mix" tvg-logo="https://i.imgur.com/qcgXbuC.png" group-title="Hollywood",Movie Mix
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 tvg-name="MTV Biggest POP" tvg-logo="https://i.imgur.com/0KEHT2X.jpg" group-title="Music",MTV Biggest POP
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-name="MTV Biggest POP 2" tvg-logo="https://i.imgur.com/0KEHT2X.jpg" group-title="Music",MTV Biggest POP 2
@@ -447,13 +445,13 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-name="Now This" tvg-logo="https://i.imgur.com/nw7YhHE.png" group-title="Entertainment",Now This
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/master.m3u8
-#EXTINF:-1 tvg-name="Outdoor Channel HD" tvg-logo="https://i.imgur.com/F12Y8Um.jpg" group-title="Nature",Outdoor Channel HD
+#EXTINF:-1 tvg-name="Outdoor Channel HD" tvg-logo="https://i.imgur.com/F12Y8Um.jpg" group-title="Nature & Animals",Outdoor Channel HD
 https://outdoorchannel-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-logo="https://i.imgur.com/T71xcU3.png" group-title="Hollywood",Paramount Movie Channel
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 tvg-name="Pets.TV" tvg-logo="https://i.imgur.com/KoM4qpQ.jpg" group-title="Entertainment",Pets.TV
+#EXTINF:-1 tvg-name="Pets.TV" tvg-logo="https://i.imgur.com/KoM4qpQ.jpg" group-title="Nature & Animals",Pets.TV
 https://bozztv.com/teleyupp/teleup-pettv/playlist.m3u8
-#EXTINF:-1 tvg-name="Pluto TV Animals" tvg-logo="https://i.imgur.com/7HucMgQ.jpg" group-title="Nature",Pluto TV Animals
+#EXTINF:-1 tvg-name="Pluto TV Animals" tvg-logo="https://i.imgur.com/7HucMgQ.jpg" group-title="Nature & Animals",Pluto TV Animals
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/rfkFCkK.jpg" group-title="Cooking",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -499,8 +497,6 @@ https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="The Film Detective" tvg-logo="https://i.imgur.com/X7NV3X1.png" group-title="Hollywood",The Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-#EXTINF:-1 tvg-name="The Official LEGO Channel" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",The Official LEGO Channel
-https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Timeline" tvg-logo="https://i.imgur.com/J8qVUjM.png" group-title="Entertainment",Timeline
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TVCine Action" tvg-logo="https://i.imgur.com/AkplrRV.jpg" group-title="Hollywood",TVCine Action
@@ -595,9 +591,9 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:-1 tvg-name="1HD Music Television" tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="Music",1HD Music Television
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Entertainment",The Pet Collective
+#EXTINF:-1 tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Nature & Animals",The Pet Collective
 https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/9a0bc894-3507-4712-ac73-40ae060ddbef/3.m3u8
-#EXTINF:-1 tvg-name="The Pet Collective (England)" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Entertainment",The Pet Collective (England)
+#EXTINF:-1 tvg-name="The Pet Collective (England)" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Nature & Animals",The Pet Collective (England)
 https://the-pet-collective-international-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Music India" tvg-logo="https://i.imgur.com/F7tPCwh.png" group-title="Music",Music India
 http://14.199.164.20:4001/play/a0mt/index.m3u8
@@ -663,3 +659,19 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_
 https://fashionbox-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-name="FailArmy International" tvg-logo="https://i.imgur.com/nbzbHum.png" group-title="Comedy",FailArmy International
 http://failarmy-international-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="The Asylum" tvg-logo="https://i.imgur.com/1pxXEtP.png" group-title="Hollywood",The Asylum
+https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
+#EXTINF:-1 tvg-name="TBD" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="Entertainment",TBD
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 tvg-name="This Week in Tech" tvg-logo="https://i.imgur.com/B4URm3L.png" group-title="Tech & E-Sports",This Week in Tech
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-name="VENN" tvg-logo="https://i.imgur.com/EKzvs8b.png" group-title="Tech & E-Sports",VENN
+https://venntv-distrotv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="IGN" tvg-logo="https://i.imgur.com/v7ShejA.png" group-title="Tech & E-Sports",IGN
+https://ign-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rooster Teeth TV" tvg-logo="https://i.imgur.com/IWzjBtV.png" group-title="Tech & E-Sports",Rooster Teeth TV
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/QrKqqRF.png" group-title="Sports",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-name="Circle HD" tvg-logo="https://i.imgur.com/VVVDQQP.png" group-title="Entertainment",Circle HD
+https://circle-xumo.amagi.tv/playlist.m3u8
