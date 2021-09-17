@@ -629,6 +629,7 @@ https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
 #EXTINF:-1 tvg-name="TG Junior" tvg-logo="https://i.imgur.com/zaIrTLu.jpg" group-title="Kids",TG Junior
 https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="RT America" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s96/index.m3u8
 #EXTINF:-1 tvg-name="Hi-Yah!" tvg-logo="https://i.imgur.com/iYKrdKw.png" group-title="Hollywood",Hi-Yah!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
