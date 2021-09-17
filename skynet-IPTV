@@ -292,6 +292,7 @@ https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
 #EXTINF:-1 tvg-name="CineLife (STIRR)" tvg-logo="https://i.imgur.com/PhSBSbI.jpg" group-title="Hollywood",CineLife (STIRR)
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Hollywood",Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Classica (STIRR)" tvg-logo="https://i.imgur.com/tzhUpBT.jpg" group-title="Music",Classica (STIRR)
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
