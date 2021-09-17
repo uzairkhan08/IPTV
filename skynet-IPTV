@@ -565,6 +565,7 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 #EXTINF:-1 tvg-name="Celebrity Scene TV" tvg-logo="https://i.imgur.com/MVcbJYo.jpg" group-title="Entertainment",Celebrity Scene TV
 https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel [V]" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="Music",Channel [V]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Cinevault 80s" tvg-logo="https://i.imgur.com/oDgUu5k.jpg" group-title="Hollywood",Cinevault 80s
 https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
