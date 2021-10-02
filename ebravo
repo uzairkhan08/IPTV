@@ -37,7 +37,7 @@ http://58.65.194.14:1935/live/PTV-News.stream/playlist.m3u8
 http://58.65.194.14:1935/live3/Dawn-news.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Sindh TV News" tvg-logo="https://i.imgur.com/PRPMCg1.jpeg" group-title="News",Sindh TV News
 http://58.65.194.14:1935/live/Sindh-TV-News.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="DIN News HD" tvg-logo="https://i.imgur.com/AqVo58k.jpeg" group-title="News",DIN News HD
+#EXTINF:-1 tvg-name="BBC Brit" tvg-logo="https://i.imgur.com/CNxmW4i.png" group-title="Entertainment",BBC Brit
 http://58.65.194.14:1935/live/Crime-Investigation.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Lahore News HD" tvg-logo="https://i.imgur.com/Io9T0W8.jpeg" group-title="News",Lahore News HD
 http://58.65.194.14:1935/live/myCinemaHD.stream/playlist.m3u8
@@ -77,7 +77,7 @@ http://58.65.194.14:1935/live/Planet%20Earth%20HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Familymovieshd.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Extreme Sports HD" tvg-logo="https://i.imgur.com/a6CHF8u.jpg" group-title="Sports",Extreme Sports HD
 http://58.65.194.14:1935/live/Extreme%20Sports%20HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://i.imgur.com/t2oRpPG.jpg" group-title="Kids",Boomerang
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://i.imgur.com/6u1qFWG.png" group-title="Kids",Boomerang
 http://58.65.194.14:1935/live/HBO.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Euro Sports 2 HD" tvg-logo="https://i.imgur.com/5Ucrlvj.jpg" group-title="Sports",Euro Sports 2 HD
 http://58.65.194.14:1935/live/Eurosport-2-HD.stream/playlist.m3u8
@@ -167,15 +167,15 @@ http://58.65.194.14:1935/live/Cartoon-network.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Travel-Channel-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM Food" tvg-logo="https://i.imgur.com/nxNRR9F.jpg" group-title="Cooking",GEM Food
 http://58.65.194.14:1935/live/History%20HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Discovery Science HD" tvg-logo="https://i.imgur.com/XFuRZ5E.jpg" group-title="Science",Discovery Science HD
+#EXTINF:-1 tvg-name="Discovery Science HD" tvg-logo="https://i.imgur.com/XFuRZ5E.jpg" group-title="Science & Documentary",Discovery Science HD
 http://58.65.194.14:1935/live/Discovery-Science-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Discovery ID HD" tvg-logo="https://i.imgur.com/vzJAC9h.jpg" group-title="Science",Discovery ID HD
+#EXTINF:-1 tvg-name="Discovery ID HD" tvg-logo="https://i.imgur.com/vzJAC9h.jpg" group-title="Science & Documentary",Discovery ID HD
 http://58.65.194.14:1935/live/Discovery-ID-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/OmVXDrq.jpg" group-title="Entertainment",Arirang
 http://58.65.194.14:1935/live/Arirang.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC First HD" tvg-logo="https://i.imgur.com/8ruWuxe.jpg" group-title="Drama",BBC First HD
 http://58.65.194.14:1935/live/bbcfirst.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://i.imgur.com/SyMzobn.jpg" group-title="Science",BBC Earth HD
+#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://i.imgur.com/SyMzobn.jpg" group-title="Science & Documentary",BBC Earth HD
 http://58.65.194.14:1935/live/BBC%20Earth%20HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="DTX HD" tvg-logo="https://i.imgur.com/pvU3ESD.jpg" group-title="Automotive",DTX HD
 http://58.65.194.14:1935/live/DTXHD.stream/playlist.m3u8
@@ -183,11 +183,11 @@ http://58.65.194.14:1935/live/DTXHD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/CGTN.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="SciFi HD" tvg-logo="https://i.imgur.com/oEuL2Jr.jpg" group-title="Drama",SciFi HD
 http://58.65.194.14:1935/live/ScifiUniversal.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="NAT Geo Wild HD" tvg-logo="https://i.imgur.com/c6rW3f2.jpg" group-title="Nature",NAT Geo Wild HD
+#EXTINF:-1 tvg-name="NAT Geo Wild HD" tvg-logo="https://i.imgur.com/c6rW3f2.jpg" group-title="Nature & Animals",NAT Geo Wild HD
 http://58.65.194.14:1935/live/Nat-Geo-Wild-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="NAT Geo People HD" tvg-logo="https://i.imgur.com/10XQIcz.jpg" group-title="Reality",NAT Geo People HD
 http://58.65.194.14:1935/live/NatGeoPeopleHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://i.imgur.com/vbJo0d5.jpg" group-title="Science",National Geographic
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://i.imgur.com/vbJo0d5.jpg" group-title="Science & Documentary",National Geographic
 http://58.65.194.14:1935/live/National-Geographic-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Jalwa" tvg-logo="https://i.imgur.com/MoSFbcE.jpg" group-title="Music",Jalwa
 http://58.65.194.14:1935/live/jalwa.stream/playlist.m3u8
@@ -243,7 +243,7 @@ http://58.65.194.14:1935/live/HBO-2-HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/AD%20Sports%202%20HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://i.imgur.com/4oXN1AM.jpg" group-title="Music",MTV
 http://58.65.194.14:1935/live/VH1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Indus News HD" tvg-logo="https://i.imgur.com/h0STgrY.jpg" group-title="News",Indus News HD
+#EXTINF:-1 tvg-name="History" tvg-logo="https://i.imgur.com/UOy0Dha.png" group-title="Science & Documentary",History
 http://58.65.194.14:1935/live/MTV-Live-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="MiX Hollywood" tvg-logo="https://i.imgur.com/cA2NUvQ.jpg" group-title="Hollywood",MiX Hollywood
 http://58.65.194.14:1935/live/Fashion-tv.stream/playlist.m3u8
