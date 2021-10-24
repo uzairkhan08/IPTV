@@ -247,6 +247,8 @@ http://58.65.194.14:1935/live/VH1.stream/playlist.m3u8
 http://58.65.194.14:1935/live/MTV-Live-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="MiX Hollywood" tvg-logo="https://i.imgur.com/cA2NUvQ.jpg" group-title="Hollywood",MiX Hollywood
 http://58.65.194.14:1935/live/Fashion-tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="ARY Sports" tvg-logo="https://i.imgur.com/Kua5Phj.jpg" group-title="Sports",ARY Sports
+http://58.65.194.14:1935/live4/Test-sports.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-name="Nick Music" tvg-logo="https://i.imgur.com/Kua5Phj.jpg" group-title="Music",Nick Music
 http://58.65.194.14:1935/live/TraceUrban.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="&Pictures" tvg-logo="https://i.imgur.com/oUTXL74.jpg" group-title="Bollywood",&Pictures
