@@ -98,7 +98,7 @@ http://58.65.194.14:1935/live/Bein-Sports-HD-11.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Ten Sports" tvg-logo="https://i.imgur.com/E3Ued3P.jpg" group-title="Sports",Ten Sports
 http://58.65.194.14:1935/live/tensports.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/EvtT9YD.jpg" group-title="Sports",PTV Sports
-http://58.65.194.14:1935/live3/PTV-Sports.stream_480p/playlist.m3u8
+http://58.65.194.14:1935/live4/PTV-Sports.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-name="Geo Super" tvg-logo="https://i.imgur.com/bnf0fPZ.jpg" group-title="Sports",Geo Super
 http://58.65.194.14:1935/live3/Geo-super.stream_480p/playlist.m3u8
 #EXTINF:-1 tvg-name="Sindh TV" tvg-logo="https://i.imgur.com/fBMFdXX.jpg" group-title="General",Sindh TV
