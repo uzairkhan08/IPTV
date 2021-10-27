@@ -96,9 +96,9 @@ http://58.65.194.14:1935/live/BoomerangHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports HD 1 " tvg-logo="https://i.imgur.com/b7MrcAd.jpg" group-title="Sports",Bein Sports HD 1
 http://58.65.194.14:1935/live/Bein-Sports-HD-11.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Ten Sports" tvg-logo="https://i.imgur.com/E3Ued3P.jpg" group-title="Sports",Ten Sports
-http://58.65.194.14:1935/live/tensports.stream/playlist.m3u8
+http://58.65.194.14:1935/live4/Test-sports.stream_240p/playlist.m3u8
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/EvtT9YD.jpg" group-title="Sports",PTV Sports
-http://58.65.194.14:1935/live4/PTV-Sports.stream_360p/playlist.m3u8
+http://58.65.194.14:1935/live4/Test-sports.stream_240p/playlist.m3u8
 #EXTINF:-1 tvg-name="Geo Super" tvg-logo="https://i.imgur.com/bnf0fPZ.jpg" group-title="Sports",Geo Super
 http://58.65.194.14:1935/live3/Geo-super.stream_480p/playlist.m3u8
 #EXTINF:-1 tvg-name="Sindh TV" tvg-logo="https://i.imgur.com/fBMFdXX.jpg" group-title="General",Sindh TV
@@ -201,7 +201,7 @@ http://58.65.194.14:1935/live/8XM-HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/CBS-Reality.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CBS Europa" tvg-logo="https://i.imgur.com/n4eghFN.jpg" group-title="Hollywood",CBS Europa
 http://58.65.194.14:1935/live/cbseuropa.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="TNT HD" tvg-logo="https://i.imgur.com/3u8DpUo.jpg" group-title="Hollywood",TNT HD
+#EXTINF:-1 tvg-name="WB TV HD" tvg-logo="ttp://static.epg.best/fr/WarnerTV.fr.png" group-title="Hollywood",WB TV HD
 http://58.65.194.14:1935/live/tnt.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="AXN Spin HD" tvg-logo="https://i.imgur.com/HV9oXpG.jpg" group-title="Hollywood",AXN Spin HD
 http://58.65.194.14:1935/live/AXNspinHD.stream/playlist.m3u8
@@ -248,6 +248,6 @@ http://58.65.194.14:1935/live/MTV-Live-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="MiX Hollywood" tvg-logo="https://i.imgur.com/cA2NUvQ.jpg" group-title="Hollywood",MiX Hollywood
 http://58.65.194.14:1935/live/Fashion-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ARY Sports" tvg-logo="https://i.imgur.com/d3IUaZY.jpg" group-title="Sports",ARY Sports
-http://58.65.194.14:1935/live4/Test-sports.stream_360p/playlist.m3u8
+http://58.65.194.14:1935/live4/Test-sports.stream_240p/playlist.m3u8
 #EXTINF:-1 tvg-name="Nick Music" tvg-logo="https://i.imgur.com/Kua5Phj.jpg" group-title="Music",Nick Music
 http://58.65.194.14:1935/live/TraceUrban.stream/playlist.m3u8
