@@ -100,7 +100,7 @@ http://10.209.126.1:1935/live4/Tensports.stream_480p/playlist.m3u8
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/EvtT9YD.jpg" group-title="Sports",PTV Sports
 http://10.209.126.1:1935/live4/PTV-Sports.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-name="Geo Super" tvg-logo="https://i.imgur.com/bnf0fPZ.jpg" group-title="Sports",Geo Super
-http://58.65.194.14:1935/live3/Geo-super.stream_480p/playlist.m3u8
+http://58.65.194.14:1935/live/Geo-super.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Sindh TV" tvg-logo="https://i.imgur.com/fBMFdXX.jpg" group-title="General",Sindh TV
 http://58.65.194.14:1935/live/Sindh-TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.imgur.com/rSQeHos.jpg" group-title="Drama",ATV
