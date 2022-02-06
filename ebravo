@@ -87,7 +87,7 @@ http://58.65.194.14:1935/live/Euro-sport-1-HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/bein-sports-13.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports HD 1 English" tvg-logo="https://i.imgur.com/1RCQ01j.jpg" group-title="Sports",Bein Sports HD 1 English
 http://58.65.194.14:1935/live/ZooMooHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Bein Sports HD 1 Premium" tvg-logo="https://i.imgur.com/b7MrcAd.jpg" group-title="Sports",Bein Sports HD 1 Premium
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://i.imgur.com/i60OYr9.png" group-title="Cooking",Food Network
 http://58.65.194.14:1935/live/trace%20sports%20HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports HD" tvg-logo="https://i.imgur.com/8nUshu7.jpg" group-title="Sports",Bein Sports HD
 http://58.65.194.14:1935/live/bein_sports.stream/playlist.m3u8
@@ -96,9 +96,9 @@ http://58.65.194.14:1935/live/BoomerangHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports HD 1 " tvg-logo="https://i.imgur.com/b7MrcAd.jpg" group-title="Sports",Bein Sports HD 1
 http://58.65.194.14:1935/live/Bein-Sports-HD-11.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Ten Sports" tvg-logo="https://i.imgur.com/E3Ued3P.jpg" group-title="Sports",Ten Sports
-http://10.209.126.1:1935/live/Ten-Sports-480p.stream/playlist.m3u8
+http://58.65.194.14:1935/live/tensports.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/EvtT9YD.jpg" group-title="Sports",PTV Sports
-http://10.209.126.1:1935/live/PTV-Sports-480p.stream/playlist.m3u8
+http://58.65.194.14:1935/live/PTV-Sports.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Geo Super" tvg-logo="https://i.imgur.com/bnf0fPZ.jpg" group-title="Sports",Geo Super
 http://58.65.194.14:1935/live/Geo-super.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Sindh TV" tvg-logo="https://i.imgur.com/fBMFdXX.jpg" group-title="General",Sindh TV
@@ -121,15 +121,13 @@ http://58.65.194.14:1935/live/PTV-Home.stream/playlist.m3u8
 http://58.65.194.14:1935/live/ARY-Zindagi.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TV One" tvg-logo="https://i.imgur.com/BgQngJm.jpg" group-title="Drama",TV One
 http://58.65.194.14:1935/live/TV-One.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Filmazia" tvg-logo="https://i.imgur.com/rcuUAje.jpg" group-title="Lollywood",Filmazia
-http://58.65.194.14:1935/Voice%20Transcode/Aruj.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-name="PLAY Entertainment" tvg-logo="https://i.imgur.com/t25DMUZ.jpg" group-title="Entertainment",PLAY Entertainment
 http://58.65.194.14:1935/live/Play-Entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="BOL Entertainment" tvg-logo="https://i.imgur.com/uQeXKkn.jpg" group-title="Entertainment",BOL Entertainment
 http://58.65.194.14:1935/live/BOL-Entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Geo Entertainment" tvg-logo="https://i.imgur.com/Jqhuh5R.jpg" group-title="Drama",Geo Entertainment
 http://58.65.194.14:1935/live/Geo-entertainment.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="ARY Digital" tvg-logo="https://i.imgur.com/icYCXta.jpg" group-title="Entertainment",ARY Digital
+#EXTINF:-1 tvg-name="ARY Digital" tvg-logo="https://i.imgur.com/icYCXta.jpg" group-title="Drama",ARY Digital
 http://58.65.194.14:1935/live/Ary-digital.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Express Entertainment" tvg-logo="https://i.imgur.com/tHHgS2K.jpg" group-title="Drama",Express Entertainment
 http://58.65.194.14:1935/live/Express-entertainment.stream/playlist.m3u8
