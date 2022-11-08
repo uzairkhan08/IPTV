@@ -263,7 +263,7 @@ http://58.65.194.14:1935/live/MTV-Live-HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Fashion-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ARY Sports" tvg-logo="https://i.imgur.com/d3IUaZY.jpg" group-title="Sports",ARY Sports
 http://203.101.163.5:1935/live/Asport.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="ARY Sports" tvg-logo="https://i.imgur.com/d3IUaZY.jpg" group-title="Sports",ARY Sports-1
+#EXTINF:-1 tvg-name="ARY Sports" tvg-logo="https://i.imgur.com/d3IUaZY.jpg" group-title="Sports",ARY Sports 2
 http://192.168.246.102:1935/live/Asport.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Nick Music" tvg-logo="https://i.imgur.com/Kua5Phj.jpg" group-title="Music",Nick Music
 http://58.65.194.14:1935/live/TraceUrban.stream/playlist.m3u8
