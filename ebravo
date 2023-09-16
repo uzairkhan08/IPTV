@@ -185,7 +185,7 @@ http://58.65.194.14:1935/live/Nickelodeon.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Cartoon-network.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="https://i.imgur.com/UbKuhNH.jpg" group-title="Travel & Lifestyle",Travel Channel HD
 http://58.65.194.14:1935/live/Travel-Channel-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Discover Pakistan" tvg-logo="https://i.imgur.com/UbKuhNH.jpg" group-title="Travel & Lifestyle",Discover Pakistan
+#EXTINF:-1 tvg-name="Discover Pakistan" tvg-logo="https://i.imgur.com/iYWZ6mI.png" group-title="Travel & Lifestyle",Discover Pakistan
 http://58.65.194.14:1935/live/Discover-Pakistan.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM Food" tvg-logo="https://i.imgur.com/nxNRR9F.jpg" group-title="Cooking",GEM Food
 http://58.65.194.14:1935/live/History%20HD.stream/playlist.m3u8
