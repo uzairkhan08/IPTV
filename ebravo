@@ -83,9 +83,9 @@ http://58.65.194.14:1935/live/AMCHD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Fast%20and%20Funbox.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="https://i.imgur.com/t44K1Hd.png" group-title="News",CNBC
 http://58.65.194.14:1935/live/Planet%20Earth%20HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="AD Sports 2 HD" tvg-logo="https://imgur.com/Ozvq4pJ" group-title="Sports",AD Sports 2 HD
+#EXTINF:-1 tvg-name="AD Sports 2 HD" tvg-logo="https://i.imgur.com/Ozvq4pJ.jpeg" group-title="Sports",AD Sports 2 HD
 http://58.65.194.14:1935/live/Familymovieshd.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://imgur.com/a/lkcBVSo" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://i.imgur.com/E1Cw1Yn.jpeg" group-title="Sports",Star Sports 1 HD
 http://192.168.246.134:1935/live/Star-Sports-HD-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Extreme Sports HD" tvg-logo="https://i.imgur.com/a6CHF8u.jpg" group-title="Sports",Extreme Sports HD
 http://58.65.194.14:1935/live/Extreme%20Sports%20HD.stream/playlist.m3u8
@@ -167,13 +167,13 @@ http://58.65.194.14:1935/live/ARYQTV.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Madani-Channel.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Arrahman Arraheem" tvg-logo="https://i.imgur.com/QRrKVr2.jpg" group-title="Islamic",Arrahman Arraheem
 http://58.65.194.14:1935/live/Arrehman-arreheem.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://imgur.com/vaHtFf8" group-title="Kids",CBeebies
+#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://i.imgur.com/vaHtFf8.png" group-title="Kids",CBeebies
 http://58.65.194.14:1935/live/minika.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://i.imgur.com/J3CIKUH.jpg" group-title="Kids",Nick Jr
 http://58.65.194.14:1935/live/NickJr.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="POP Kids" tvg-logo="https://imgur.com/VYhrld4" group-title="Kids",POP Kids
+#EXTINF:-1 tvg-name="POP Kids" tvg-logo="https://i.imgur.com/VYhrld4.png" group-title="Kids",POP Kids
 http://58.65.194.14:1935/live/Pop.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Kids Zone" tvg-logo="https://imgur.com/HDdP71Z" group-title="Kids",Kids Zone
+#EXTINF:-1 tvg-name="Kids Zone" tvg-logo="https://i.imgur.com/HDdP71Z.png" group-title="Kids",Kids Zone
 http://58.65.194.14:1935/live/Kidszone.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://i.imgur.com/pOVefnd.jpg" group-title="Kids",Baby TV
 http://58.65.194.14:1935/live/Baby-TV.stream/playlist.m3u8
@@ -249,7 +249,7 @@ http://58.65.194.14:1935/live/Comedy-Central-Family-HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/FOX-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox Comedy" tvg-logo="https://i.imgur.com/hbsYXxM.jpg" group-title="Comedy",Fox Comedy
 http://58.65.194.14:1935/live/Fox-Comedy-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Virtual University" tvg-logo="https://imgur.com/fIORMuw" group-title="Education",Virtual University
+#EXTINF:-1 tvg-name="Virtual University" tvg-logo="https://i.imgur.com/fIORMuw.png" group-title="Education",Virtual University
 http://58.65.194.14:1935/live/Filmworld.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Dubai One HD" tvg-logo="https://i.imgur.com/5eHeMKt.jpg" group-title="Entertainment",Dubai One HD
 http://58.65.194.14:1935/live/Firemovie.stream/playlist.m3u8
@@ -265,7 +265,7 @@ http://58.65.194.14:1935/live/AD%20Sports%202%20HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/VH1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="History" tvg-logo="https://i.imgur.com/UOy0Dha.png" group-title="Science & Documentary",History
 http://58.65.194.14:1935/live/MTV-Live-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="GEM Onyx HD" tvg-logo="https://imgur.com/8Bo9y20" group-title="Hollywood",GEM Onyx HD
+#EXTINF:-1 tvg-name="GEM Onyx HD" tvg-logo="https://i.imgur.com/8Bo9y20.jpeg" group-title="Hollywood",GEM Onyx HD
 http://58.65.194.14:1935/live/Fashion-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ARY Sports" tvg-logo="https://i.imgur.com/d3IUaZY.jpg" group-title="Sports",ARY Sports
 http://203.101.163.5:1935/live/Asport.stream/playlist.m3u8
@@ -273,5 +273,5 @@ http://203.101.163.5:1935/live/Asport.stream/playlist.m3u8
 http://192.168.246.102:1935/live/Asport.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Nick Music" tvg-logo="https://i.imgur.com/Kua5Phj.jpg" group-title="Music",Nick Music
 http://58.65.194.14:1935/live/TraceUrban.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Green Entertainment HD" tvg-logo="https://imgur.com/JuY4CLR" group-title="Drama",Green Entertainment HD
+#EXTINF:-1 tvg-name="Green Entertainment HD" tvg-logo="https://i.imgur.com/JuY4CLR.jpeg" group-title="Drama",Green Entertainment HD
 http://58.65.194.14:1935/live/Green-Entertainment-HD.stream/playlist.m3u8
