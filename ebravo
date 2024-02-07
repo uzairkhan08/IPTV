@@ -86,7 +86,7 @@ http://58.65.194.14:1935/live/Planet%20Earth%20HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="AD Sports 2 HD" tvg-logo="https://i.imgur.com/Ozvq4pJ.jpeg" group-title="Sports",AD Sports 2 HD
 http://58.65.194.14:1935/live/Familymovieshd.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://i.imgur.com/E1Cw1Yn.jpeg" group-title="Sports",Star Sports 1 HD
-http://192.168.246.134:1935/live/Star-Sports-HD-1.stream/playlist.m3u8
+https://webtv3.ebravo.pk:1935/live/Star-Sports-HD-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Extreme Sports HD" tvg-logo="https://i.imgur.com/a6CHF8u.jpg" group-title="Sports",Extreme Sports HD
 http://58.65.194.14:1935/live/Extreme%20Sports%20HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://i.imgur.com/6u1qFWG.png" group-title="Kids",Boomerang
@@ -110,13 +110,13 @@ http://58.65.194.14:1935/live/BEIN-SPORTS-HD-1-PREMIUM.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports HD 5" tvg-logo="https://i.imgur.com/EY4Aq8u.jpg" group-title="Sports",Bein Sports HD 5
 http://58.65.194.14:1935/live/ZooMooHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Ten Sports" tvg-logo="https://i.imgur.com/E3Ued3P.jpg" group-title="Sports",Ten Sports
-http://192.168.246.102:1935/live/tensports.stream/playlist.m3u8
+https://webtv4.ebravo.pk:1935/live/tensports.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Ten Sports 2" tvg-logo="https://i.imgur.com/E3Ued3P.jpg" group-title="Sports",Ten Sports 2
-http://192.168.246.134:1935/live/tensports.stream/playlist.m3u8
+https://webtv1.ebravo.pk:1935/live/tensports.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/EvtT9YD.jpg" group-title="Sports",PTV Sports
-http://192.168.246.134:1935/live/PTV-Sports.stream/playlist.m3u8
+https://webtv1.ebravo.pk:1935/live/PTV-Sports.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="PTV Sports 2" tvg-logo="https://i.imgur.com/EvtT9YD.jpg" group-title="Sports",PTV Sports 2
-http://192.168.246.102:1935/live/PTV-Sports.stream/playlist.m3u8
+https://webtv4.ebravo.pk:1935/live/PTV-Sports.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Geo Super" tvg-logo="https://i.imgur.com/bnf0fPZ.jpg" group-title="Sports",Geo Super
 http://58.65.194.14:1935/live/Geo-super.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Sindh TV" tvg-logo="https://i.imgur.com/fBMFdXX.jpg" group-title="General",Sindh TV
@@ -268,9 +268,9 @@ http://58.65.194.14:1935/live/MTV-Live-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM Onyx HD" tvg-logo="https://i.imgur.com/8Bo9y20.jpeg" group-title="Hollywood",GEM Onyx HD
 http://58.65.194.14:1935/live/Fashion-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ARY Sports" tvg-logo="https://i.imgur.com/d3IUaZY.jpg" group-title="Sports",ARY Sports
-http://203.101.163.5:1935/live/Asport.stream/playlist.m3u8
+https://webtv4.ebravo.pk:1935/live/Asport.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ARY Sports" tvg-logo="https://i.imgur.com/d3IUaZY.jpg" group-title="Sports",ARY Sports 2
-http://192.168.246.102:1935/live/Asport.stream/playlist.m3u8
+https://webtv1.ebravo.pk:1935/live/Asport.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Nick Music" tvg-logo="https://i.imgur.com/Kua5Phj.jpg" group-title="Music",Nick Music
 http://58.65.194.14:1935/live/TraceUrban.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Green Entertainment HD" tvg-logo="https://i.imgur.com/JuY4CLR.jpeg" group-title="Drama",Green Entertainment HD
