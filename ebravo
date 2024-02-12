@@ -1,114 +1,116 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bravo Islamic" tvg-logo="https://i.imgur.com/1rBcdxR.jpeg" group-title="Islamic",Bravo Islamic
-http://58.65.194.14:1935/live/Bravo1.stream/playlist.m3u8
+https://webtv3.ebravo.pk:1935/live/Bravo1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Hadi TV" tvg-logo="https://i.imgur.com/WzdxchM.jpg" group-title="Islamic",Hadi TV
-http://58.65.194.14:1935/live/Hadi-TV.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Hadi-TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Karbala TV" tvg-logo="https://i.imgur.com/iNWcXEX.jpg" group-title="Islamic",Karbala TV
-http://58.65.194.14:1935/live/Karbala-TV.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Karbala-TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bravo Naya" tvg-logo="https://i.imgur.com/gPKncBy.jpeg" group-title="Hollywood",Bravo Naya
-http://58.65.194.14:1935/live/Bravo4.stream/playlist.m3u8
+https://webtv3.ebravo.pk:1935/live/Bravo4.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bravo Sub Rung" tvg-logo="https://i.imgur.com/ZJ1oUnt.jpeg" group-title="Hollywood",Bravo Sub Rung
-http://58.65.194.14:1935/live/Bravo_sub_rung.stream/playlist.m3u8
+https://webtv3.ebravo.pk:1935/live/Bravo_sub_rung.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bravo Family" tvg-logo="https://i.imgur.com/UuHfnN5.jpeg" group-title="Hollywood",Bravo Family
-http://58.65.194.14:1935/live/Bravo-Family.stream/playlist.m3u8
+https://webtv3.ebravo.pk:1935/live/Bravo-Family.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bravo Now" tvg-logo="https://i.imgur.com/eCbYW87.jpeg" group-title="Hollywood",Bravo Now
-http://58.65.194.14:1935/live/Bravo-now.stream/playlist.m3u8
+https://webtv3.ebravo.pk:1935/live/Bravo-now.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ARY News" tvg-logo="https://i.imgur.com/2JLA9oJ.jpeg" group-title="News",ARY News
-http://58.65.194.14:1935/live/Ary-news.stream/playlist.m3u8
+https://webtv3.ebravo.pk:1935/live/Ary-news.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Geo News" tvg-logo="https://i.imgur.com/c6ZA97v.jpeg" group-title="News",Geo News
-http://58.65.194.14:1935/live/Geo-news.stream/playlist.m3u8
+https://webtv3.ebravo.pk:1935/live/Geo-news.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Samaa News" tvg-logo="https://i.imgur.com/XhVCZBq.jpeg" group-title="News",Samaa News
-http://58.65.194.14:1935/live/Samaa.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Samaa.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Express News" tvg-logo="https://i.imgur.com/SC2vcPF.jpeg" group-title="News",Express News
-http://58.65.194.14:1935/live/express.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/express.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Aaj News" tvg-logo="https://i.imgur.com/jjr4v7m.jpeg" group-title="News",Aaj News
-http://58.65.194.14:1935/live/AajNews.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/AajNews.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Dunya News" tvg-logo="https://i.imgur.com/8hl8RKr.jpeg" group-title="News",Dunya News
-http://58.65.194.14:1935/live/DunyaNews.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/DunyaNews.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Neo News" tvg-logo="https://i.imgur.com/dMhqZPB.jpeg" group-title="News",Neo News
-http://58.65.194.14:1935/live/NeoNewsHD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/NeoNewsHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="GNN News" tvg-logo="https://i.imgur.com/LmLUsEO.jpeg" group-title="News",GNN News
-http://58.65.194.14:1935/live/GNN-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="PNN News" tvg-logo="https://i.imgur.com/BVDb5ly.jpg" group-title="News",PNN News
-http://58.65.194.14:1935/live/13%20Ulica%20HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="GNN News" tvg-logo="https://i.imgur.com/ucjgolm.jpg" group-title="News",24 News
-http://58.65.194.14:1935/live/Channel24.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="GNN News" tvg-logo="https://i.imgur.com/2gDvTfz.jpg" group-title="News",Hum News
-http://58.65.194.14:1935/live/HUM-News.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/GNN-HD.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="AIK News" tvg-logo="https://i.imgur.com/0db88eV.jpeg" group-title="News",AIK News
+https://webtv2.ebravo.pk:1935/live/13%20Ulica%20HD.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="24 News" tvg-logo="https://i.imgur.com/ucjgolm.jpg" group-title="News",24 News
+https://webtv2.ebravo.pk:1935/live/Channel24.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Hum News" tvg-logo="https://i.imgur.com/2gDvTfz.jpg" group-title="News",Hum News
+https://webtv2.ebravo.pk:1935/live/HUM-News.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bol News" tvg-logo="https://i.imgur.com/rrG7XoL.jpeg" group-title="News",Bol News
-http://58.65.194.14:1935/live/BOL-TV.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/BOL-TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="News One" tvg-logo="https://i.imgur.com/dONAc5M.jpeg" group-title="News",News One
-http://58.65.194.14:1935/live/News-One.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/News-One.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="92 News HD" tvg-logo="https://i.imgur.com/0SLuFJa.jpeg" group-title="News",92 News HD
-http://58.65.194.14:1935/live/92-news.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/92-news.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="PTV News" tvg-logo="https://i.imgur.com/vABI7Ty.jpeg" group-title="News",PTV News
-http://58.65.194.14:1935/live/PTV-News.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/PTV-News.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Dawn News" tvg-logo="https://i.imgur.com/TAEpbTa.jpeg" group-title="News",Dawn News
-http://58.65.194.14:1935/live/Dawn-News-480p.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Dawn-News-480p.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Sindh TV News" tvg-logo="https://i.imgur.com/PRPMCg1.jpeg" group-title="News",Sindh TV News
-http://58.65.194.14:1935/live/Sindh-TV-News.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Sindh-TV-News.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Brit" tvg-logo="https://i.imgur.com/CNxmW4i.png" group-title="Entertainment",BBC Brit
-http://58.65.194.14:1935/live/Crime-Investigation.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Crime-Investigation.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Lahore News HD" tvg-logo="https://i.imgur.com/Io9T0W8.jpeg" group-title="News",Lahore News HD
-http://58.65.194.14:1935/live/myCinemaHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Capital News" tvg-logo="https://i.imgur.com/ey9bjne.jpeg" group-title="News",Capital News
-http://58.65.194.14:1935/live/CapitalTV.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/myCinemaHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Capital TV News" tvg-logo="https://i.imgur.com/ey9bjne.jpeg" group-title="News",Capital TV News
+https://webtv2.ebravo.pk:1935/live/CapitalTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ABB Takk News" tvg-logo="https://i.imgur.com/WIPH67s.jpeg" group-title="News",ABB Takk News
-http://58.65.194.14:1935/live/ABB-Takk.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/ABB-Takk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Such News HD" tvg-logo="https://i.imgur.com/HmtTsxh.jpeg" group-title="News",Such News HD
-http://58.65.194.14:1935/live/SuchTV.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/SuchTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/Ql1Gy5d.jpeg" group-title="News",Channel News Asia
-http://58.65.194.14:1935/live/ChannelNewsAsia.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/ChannelNewsAsia.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/WVilVAW.jpeg" group-title="News",Bloomberg
-http://58.65.194.14:1935/live/Bloomberg.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Bloomberg.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Arabiya" tvg-logo="https://i.imgur.com/oVzUMxU.jpeg" group-title="News",Al Arabiya
-http://58.65.194.14:1935/live/Al%20Araybia.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Al%20Araybia.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT World HD" tvg-logo="https://i.imgur.com/E3RaTRR.jpeg" group-title="News",TRT World HD
-http://58.65.194.14:1935/live/TRTWorldHD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/TRTWorldHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera News" tvg-logo="https://i.imgur.com/b5aaiqL.jpeg" group-title="News",Al Jazeera News
-http://58.65.194.14:1935/live/AlJazeera.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/AlJazeera.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="France 24 News HD" tvg-logo="https://i.imgur.com/WnRg53h.jpeg" group-title="News",France 24 News HD
-http://58.65.194.14:1935/live/France24.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/France24.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Euro News" tvg-logo="https://i.imgur.com/oTgVj3i.jpeg" group-title="News",Euro News
-http://58.65.194.14:1935/live/Euro-news.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Euro-news.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://i.imgur.com/OdaZyY6.jpeg" group-title="News",BBC World News
-http://58.65.194.14:1935/live/BBC-world-news-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/BBC-world-news-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/npCwQVW.jpeg" group-title="News",CNN
-http://58.65.194.14:1935/live/CNN.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/CNN.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="DW News" tvg-logo="https://i.imgur.com/DWQ3erW.jpeg" group-title="News",DW News
-http://58.65.194.14:1935/live/DW-News.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/DW-News.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="NBC Golf HD" tvg-logo="https://i.imgur.com/zRzgEWV.jpeg" group-title="Sports",NBC Golf HD
-http://58.65.194.14:1935/live/AMCHD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/AMCHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="AD Sports 3 HD" tvg-logo="https://i.imgur.com/WcHFO2z.jpeg" group-title="Sports",AD Sports 3 HD
-http://58.65.194.14:1935/live/Fast%20and%20Funbox.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Fast%20and%20Funbox.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="https://i.imgur.com/t44K1Hd.png" group-title="News",CNBC
-http://58.65.194.14:1935/live/Planet%20Earth%20HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Planet%20Earth%20HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="AD Sports 2 HD" tvg-logo="https://i.imgur.com/Ozvq4pJ.jpeg" group-title="Sports",AD Sports 2 HD
-http://58.65.194.14:1935/live/Familymovieshd.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Familymovieshd.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://i.imgur.com/E1Cw1Yn.jpeg" group-title="Sports",Star Sports 1 HD
 https://webtv3.ebravo.pk:1935/live/Star-Sports-HD-1.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1 Hindi" tvg-logo="https://i.imgur.com/q0GC2ue.png" group-title="Sports",Star Sports 1 Hindi
+https://webtv4.ebravo.pk:1935/live/Star-Sports-1-Hindi.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Extreme Sports HD" tvg-logo="https://i.imgur.com/a6CHF8u.jpg" group-title="Sports",Extreme Sports HD
-http://58.65.194.14:1935/live/Extreme%20Sports%20HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Extreme%20Sports%20HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://i.imgur.com/6u1qFWG.png" group-title="Kids",Boomerang
-http://58.65.194.14:1935/live/HBO.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/HBO.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Euro Sports 2 HD" tvg-logo="https://i.imgur.com/5Ucrlvj.jpg" group-title="Sports",Euro Sports 2 HD
-http://58.65.194.14:1935/live/Eurosport-2-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Eurosport-2-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Euro Sports 1 HD" tvg-logo="https://i.imgur.com/rvk5IXh.jpg" group-title="Sports",Euro Sports 1 HD
-http://58.65.194.14:1935/live/Euro-sport-1-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Euro-sport-1-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports HD" tvg-logo="https://i.imgur.com/8nUshu7.jpg" group-title="Sports",Bein Sports HD
-http://58.65.194.14:1935/live/bein_sports.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/bein_sports.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports HD 1 " tvg-logo="https://i.imgur.com/b7MrcAd.jpg" group-title="Sports",Bein Sports HD 1
-http://58.65.194.14:1935/live/Bein-Sports-HD-11.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/trace%20sports%20HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports HD 1 English" tvg-logo="https://i.imgur.com/1RCQ01j.jpg" group-title="Sports",Bein Sports HD 1 English
-http://58.65.194.14:1935/live/trace sports HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/trace sports HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports HD 2" tvg-logo="https://i.imgur.com/SlMuwSc.jpg" group-title="Sports",Bein Sports HD 2
-http://192.168.246.134:1935/live/beinmax1.stream/playlist.m3u8
+https://webtv1.ebravo.pk:1935/live/beinmax1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports HD 3" tvg-logo="https://i.imgur.com/5tvAaME.jpg" group-title="Sports",Bein Sports HD 3
-http://58.65.194.14:1935/live/bein-sports-13.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/bein-sports-13.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports HD 3 Premium" tvg-logo="https://i.imgur.com/5tvAaME.jpg" group-title="Sports",Bein Sports HD 3 Premium
-http://58.65.194.14:1935/live/BEIN-SPORTS-HD-1-PREMIUM.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/BEIN-SPORTS-HD-1-PREMIUM.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports HD 5" tvg-logo="https://i.imgur.com/EY4Aq8u.jpg" group-title="Sports",Bein Sports HD 5
-http://58.65.194.14:1935/live/ZooMooHD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/ZooMooHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Ten Sports" tvg-logo="https://i.imgur.com/E3Ued3P.jpg" group-title="Sports",Ten Sports
 https://webtv4.ebravo.pk:1935/live/tensports.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Ten Sports 2" tvg-logo="https://i.imgur.com/E3Ued3P.jpg" group-title="Sports",Ten Sports 2
@@ -118,160 +120,160 @@ https://webtv1.ebravo.pk:1935/live/PTV-Sports.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="PTV Sports 2" tvg-logo="https://i.imgur.com/EvtT9YD.jpg" group-title="Sports",PTV Sports 2
 https://webtv4.ebravo.pk:1935/live/PTV-Sports.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Geo Super" tvg-logo="https://i.imgur.com/bnf0fPZ.jpg" group-title="Sports",Geo Super
-http://58.65.194.14:1935/live/Geo-super.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Geo-super.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Sindh TV" tvg-logo="https://i.imgur.com/fBMFdXX.jpg" group-title="General",Sindh TV
-http://58.65.194.14:1935/live/Sindh-TV.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Sindh-TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.imgur.com/rSQeHos.jpg" group-title="Drama",ATV
-http://58.65.194.14:1935/live/ATV.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/ATV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="A Plus" tvg-logo="https://i.imgur.com/GEHl5Df.jpg" group-title="Drama",A Plus
-http://58.65.194.14:1935/live/APlus.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/APlus.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="PTV National" tvg-logo="https://i.imgur.com/JnIYJI0.jpg" group-title="General",PTV National
-http://58.65.194.14:1935/live/PTV-National.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/PTV-National.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Hum Sitaray" tvg-logo="https://i.imgur.com/Iq25sj0.jpg" group-title="Drama",Hum Sitaray
-http://58.65.194.14:1935/live/Hum-sitaray.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Hum-sitaray.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Geo Kahani" tvg-logo="https://i.imgur.com/WH7Gr0H.jpg" group-title="Drama",Geo Kahani
-http://58.65.194.14:1935/live/Geo%20Khani.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Geo%20Khani.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Aaj Entertainment" tvg-logo="https://i.imgur.com/zQRKGa2.jpg" group-title="Drama",Aaj Entertainment
-http://58.65.194.14:1935/live/Aaj-Ent.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Aaj-Ent.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="PTV Home" tvg-logo="https://i.imgur.com/WuXeF5a.jpg" group-title="Drama",PTV Home
-http://58.65.194.14:1935/live/PTV-Home.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/PTV-Home.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ARY Zindagi" tvg-logo="https://i.imgur.com/U5VQgfO.jpg" group-title="Drama",ARY Zindagi
-http://58.65.194.14:1935/live/ARY-Zindagi.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/ARY-Zindagi.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TV One" tvg-logo="https://i.imgur.com/BgQngJm.jpg" group-title="Drama",TV One
-http://58.65.194.14:1935/live/TV-One.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/TV-One.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="PLAY Entertainment" tvg-logo="https://i.imgur.com/t25DMUZ.jpg" group-title="Entertainment",PLAY Entertainment
-http://58.65.194.14:1935/live/Play-Entertainment.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Play-Entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="BOL Entertainment" tvg-logo="https://i.imgur.com/uQeXKkn.jpg" group-title="Entertainment",BOL Entertainment
-http://58.65.194.14:1935/live/BOL-Entertainment.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/BOL-Entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Geo Entertainment" tvg-logo="https://i.imgur.com/Jqhuh5R.jpg" group-title="Drama",Geo Entertainment
-http://58.65.194.14:1935/live/Geo-entertainment.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Geo-entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ARY Digital" tvg-logo="https://i.imgur.com/icYCXta.jpg" group-title="Drama",ARY Digital
-http://58.65.194.14:1935/live/Ary-digital.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Ary-digital.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Express Entertainment" tvg-logo="https://i.imgur.com/tHHgS2K.jpg" group-title="Drama",Express Entertainment
-http://58.65.194.14:1935/live/Express-entertainment.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Express-entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Hum TV HD" tvg-logo="https://i.imgur.com/SpKqaC1.jpeg" group-title="Drama",Hum TV HD
-http://58.65.194.14:1935/live/Hum-tv.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Hum-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Urdu 1" tvg-logo="https://i.imgur.com/Cq8EPAl.jpg" group-title="Drama",Urdu 1
-http://58.65.194.14:1935/live/Urdu-1.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Urdu-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Hum Masala" tvg-logo="https://i.imgur.com/LE8eMZe.jpg" group-title="Cooking",Hum Masala
-http://58.65.194.14:1935/live/Hum-masala.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Hum-masala.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Sunnah HD" tvg-logo="https://i.imgur.com/TOtu8YB.jpg" group-title="Islamic",Al Sunnah HD
-http://58.65.194.14:1935/live/Al-Sunnah-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Al-Sunnah-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Quran-ul-Kareem" tvg-logo="https://i.imgur.com/okVlxmp.jpg" group-title="Islamic",Al Quran-ul-Kareem
-http://58.65.194.14:1935/live/English%20Club%20TV.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/English%20Club%20TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Peace TV English" tvg-logo="https://i.imgur.com/wQkcRJI.jpg" group-title="Islamic",Peace TV English
-http://58.65.194.14:1935/live/peace_tv.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/peace_tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ARY QTV" tvg-logo="https://i.imgur.com/LtoKuNo.jpg" group-title="Islamic",ARY QTV
-http://58.65.194.14:1935/live/ARYQTV.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/ARYQTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Madani Channel" tvg-logo="https://i.imgur.com/Qc0vD4p.jpg" group-title="Islamic",Madani Channel
-http://58.65.194.14:1935/live/Madani-Channel.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Madani-Channel.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Arrahman Arraheem" tvg-logo="https://i.imgur.com/QRrKVr2.jpg" group-title="Islamic",Arrahman Arraheem
-http://58.65.194.14:1935/live/Arrehman-arreheem.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Arrehman-arreheem.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://i.imgur.com/vaHtFf8.png" group-title="Kids",CBeebies
-http://58.65.194.14:1935/live/minika.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/minika.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://i.imgur.com/J3CIKUH.jpg" group-title="Kids",Nick Jr
-http://58.65.194.14:1935/live/NickJr.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/NickJr.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="POP Kids" tvg-logo="https://i.imgur.com/VYhrld4.png" group-title="Kids",POP Kids
-http://58.65.194.14:1935/live/Pop.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Pop.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Kids Zone" tvg-logo="https://i.imgur.com/HDdP71Z.png" group-title="Kids",Kids Zone
-http://58.65.194.14:1935/live/Kidszone.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Kidszone.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://i.imgur.com/pOVefnd.jpg" group-title="Kids",Baby TV
-http://58.65.194.14:1935/live/Baby-TV.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Baby-TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Disney Junior HD" tvg-logo="https://i.imgur.com/KG4UVdu.jpg" group-title="Kids",Disney Junior HD
-http://58.65.194.14:1935/live/disney%20junior%20hd.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/disney%20junior%20hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/s4wod15.jpg" group-title="Kids",Nickelodeon
-http://58.65.194.14:1935/live/Nickelodeon.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Nickelodeon.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/o7eWgCd.jpg" group-title="Kids",Cartoon Network
-http://58.65.194.14:1935/live/Cartoon-network.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Cartoon-network.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="https://i.imgur.com/UbKuhNH.jpg" group-title="Travel & Lifestyle",Travel Channel HD
-http://58.65.194.14:1935/live/Travel-Channel-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Travel-Channel-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Discover Pakistan" tvg-logo="https://i.imgur.com/iYWZ6mI.png" group-title="Travel & Lifestyle",Discover Pakistan
-http://58.65.194.14:1935/live/Discover-Pakistan.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Discover-Pakistan.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM Food" tvg-logo="https://i.imgur.com/nxNRR9F.jpg" group-title="Cooking",GEM Food
-http://58.65.194.14:1935/live/History%20HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/History%20HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Discovery Science HD" tvg-logo="https://i.imgur.com/XFuRZ5E.jpg" group-title="Science & Documentary",Discovery Science HD
-http://58.65.194.14:1935/live/Discovery-Science-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Discovery-Science-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Discovery ID HD" tvg-logo="https://i.imgur.com/vzJAC9h.jpg" group-title="Science & Documentary",Discovery ID HD
-http://58.65.194.14:1935/live/Discovery-ID-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Discovery-ID-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/OmVXDrq.jpg" group-title="Entertainment",Arirang
-http://58.65.194.14:1935/live/Arirang.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Arirang.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC First HD" tvg-logo="https://i.imgur.com/8ruWuxe.jpg" group-title="Drama",BBC First HD
-http://58.65.194.14:1935/live/bbcfirst.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/bbcfirst.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://i.imgur.com/SyMzobn.jpg" group-title="Nature & Animals",BBC Earth HD
-http://58.65.194.14:1935/live/BBC%20Earth%20HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/BBC%20Earth%20HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="DTX HD" tvg-logo="https://i.imgur.com/pvU3ESD.jpg" group-title="Automotive",DTX HD
-http://58.65.194.14:1935/live/DTXHD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/DTXHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://i.imgur.com/9VmeFDU.jpg" group-title="News",CGTN
-http://58.65.194.14:1935/live/CGTN.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/CGTN.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="SciFi HD" tvg-logo="https://i.imgur.com/oEuL2Jr.jpg" group-title="Drama",SciFi HD
-http://58.65.194.14:1935/live/ScifiUniversal.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/ScifiUniversal.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="NAT Geo Wild HD" tvg-logo="https://i.imgur.com/c6rW3f2.jpg" group-title="Nature & Animals",NAT Geo Wild HD
-http://58.65.194.14:1935/live/Nat-Geo-Wild-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Nat-Geo-Wild-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="NAT Geo People HD" tvg-logo="https://i.imgur.com/10XQIcz.jpg" group-title="Reality",NAT Geo People HD
-http://58.65.194.14:1935/live/NatGeoPeopleHD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/NatGeoPeopleHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://i.imgur.com/vbJo0d5.jpg" group-title="Science & Documentary",National Geographic
-http://58.65.194.14:1935/live/National-Geographic-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/National-Geographic-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Jalwa" tvg-logo="https://i.imgur.com/MoSFbcE.jpg" group-title="Music",Jalwa
-http://58.65.194.14:1935/live/jalwa.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/jalwa.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ARY Musik" tvg-logo="https://i.imgur.com/KABdCF5.jpg" group-title="Music",ARY Musik
-http://58.65.194.14:1935/live/ARY-Musik.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/ARY-Musik.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CBS Reality" tvg-logo="https://i.imgur.com/eYiaat1.png" group-title="Reality",CBS Reality
-http://58.65.194.14:1935/live/Oxygene-TV.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Oxygene-TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="8XM" tvg-logo="https://i.imgur.com/DEZx0tT.jpg" group-title="Music",8XM
-http://58.65.194.14:1935/live/8XM-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/8XM-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Apna Channel" tvg-logo="https://i.imgur.com/6XK4kqp.jpg" group-title="Drama",Apna Channel
-http://58.65.194.14:1935/live/CBS-Reality.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/CBS-Reality.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CBS Europa" tvg-logo="https://i.imgur.com/n4eghFN.jpg" group-title="Hollywood",CBS Europa
-http://58.65.194.14:1935/live/cbseuropa.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/cbseuropa.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="WB TV HD" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="Hollywood",WB TV HD
-http://58.65.194.14:1935/live/tnt.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/tnt.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="AXN Spin HD" tvg-logo="https://i.imgur.com/HV9oXpG.jpg" group-title="Hollywood",AXN Spin HD
-http://58.65.194.14:1935/live/AXNspinHD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/AXNspinHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://i.imgur.com/pJoGoCR.jpg" group-title="Hollywood",AXN HD
-http://58.65.194.14:1935/live/AXN.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/AXN.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC Max" tvg-logo="https://i.imgur.com/F4CfAlZ.jpg" group-title="Hollywood",MBC Max
-http://58.65.194.14:1935/live/MBCMax.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/MBCMax.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC Action" tvg-logo="https://i.imgur.com/V1LAq2f.jpg" group-title="Hollywood",MBC Action
-http://58.65.194.14:1935/live/MBC-Action-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/MBC-Action-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC 2" tvg-logo="https://i.imgur.com/sx5KAsT.png" group-title="Travel & Lifestyle",BBC Lifestyle
-http://58.65.194.14:1935/live/MBC2HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/MBC2HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC 4" tvg-logo="https://i.imgur.com/yyotsML.jpg" group-title="Entertainment",MBC 4
-http://58.65.194.14:1935/live/MBC-4.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/MBC-4.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="NHK World HD" tvg-logo="https://i.imgur.com/PtcBRMi.jpg" group-title="News",NHK World HD
-http://58.65.194.14:1935/live/NHKWorldHD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/NHKWorldHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://i.imgur.com/3H1xECD.jpg" group-title="Hollywood",AMC HD
-http://58.65.194.14:1935/live/OSN%20Series%20First%20HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/OSN%20Series%20First%20HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Comedy Central HD" tvg-logo="https://i.imgur.com/351tyBP.jpg" group-title="Comedy",Comedy Central HD
-http://58.65.194.14:1935/live/Comedy-Central-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Comedy-Central-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Comedy Central Extra HD" tvg-logo="https://i.imgur.com/QSC23cI.jpg" group-title="Comedy",Comedy Central Extra HD
-http://58.65.194.14:1935/live/Comedy-Central-Family-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Comedy-Central-Family-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox HD" tvg-logo="https://i.imgur.com/RHaqLYa.jpg" group-title="Hollywood",Fox HD
-http://58.65.194.14:1935/live/FOX-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/FOX-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox Comedy" tvg-logo="https://i.imgur.com/hbsYXxM.jpg" group-title="Comedy",Fox Comedy
-http://58.65.194.14:1935/live/Fox-Comedy-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Fox-Comedy-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Virtual University" tvg-logo="https://i.imgur.com/fIORMuw.png" group-title="Education",Virtual University
-http://58.65.194.14:1935/live/Filmworld.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Filmworld.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Dubai One HD" tvg-logo="https://i.imgur.com/5eHeMKt.jpg" group-title="Entertainment",Dubai One HD
-http://58.65.194.14:1935/live/Firemovie.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Firemovie.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://i.imgur.com/sLJgDM8.jpg" group-title="Hollywood",HBO HD
-http://58.65.194.14:1935/live/MotorvisionHD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/MotorvisionHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="OSN Movies" tvg-logo="https://i.imgur.com/BiXc0WJ.jpg" group-title="Hollywood",OSN Movies
-http://58.65.194.14:1935/live/HBO-3-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/HBO-3-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="https://i.imgur.com/TjW9fXi.jpg" group-title="Hollywood",HBO 2 HD
-http://58.65.194.14:1935/live/HBO-2-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/HBO-2-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO 3 HD" tvg-logo="https://i.imgur.com/KMkdFaF.jpg" group-title="Hollywood",HBO 3 HD
-http://58.65.194.14:1935/live/AD%20Sports%202%20HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/AD%20Sports%202%20HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://i.imgur.com/4oXN1AM.jpg" group-title="Music",MTV
-http://58.65.194.14:1935/live/VH1.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/VH1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="History" tvg-logo="https://i.imgur.com/UOy0Dha.png" group-title="Science & Documentary",History
-http://58.65.194.14:1935/live/MTV-Live-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/MTV-Live-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM Onyx HD" tvg-logo="https://i.imgur.com/8Bo9y20.jpeg" group-title="Hollywood",GEM Onyx HD
-http://58.65.194.14:1935/live/Fashion-tv.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Fashion-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ARY Sports" tvg-logo="https://i.imgur.com/d3IUaZY.jpg" group-title="Sports",ARY Sports
 https://webtv4.ebravo.pk:1935/live/Asport.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ARY Sports" tvg-logo="https://i.imgur.com/d3IUaZY.jpg" group-title="Sports",ARY Sports 2
 https://webtv1.ebravo.pk:1935/live/Asport.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Nick Music" tvg-logo="https://i.imgur.com/Kua5Phj.jpg" group-title="Music",Nick Music
-http://58.65.194.14:1935/live/TraceUrban.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/TraceUrban.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Green Entertainment HD" tvg-logo="https://i.imgur.com/JuY4CLR.jpeg" group-title="Drama",Green Entertainment HD
-http://58.65.194.14:1935/live/Green-Entertainment-HD.stream/playlist.m3u8
+https://webtv2.ebravo.pk:1935/live/Green-Entertainment-HD.stream/playlist.m3u8
