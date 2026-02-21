@@ -27,6 +27,8 @@ https://webtv2.streamhome.co:1935/live/AajNews.stream/playlist.m3u8
 https://webtv2.streamhome.co:1935/live/DunyaNews.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Neo News" tvg-logo="https://i.imgur.com/dMhqZPB.jpeg" group-title="News",Neo News
 https://webtv2.streamhome.co:1935/live/NeoNewsHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="365 News" tvg-logo="https://ebuzz.world/classic/uploads/webtv//0602366b53a9d1bb94e3571063978ebd.jpg" group-title="News",365 News
+https://webtv3.streamhome.co:1935/live/Channel-365.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="GNN News" tvg-logo="https://i.imgur.com/LmLUsEO.jpeg" group-title="News",GNN News
 https://webtv2.streamhome.co:1935/live/GNN-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="AIK News" tvg-logo="https://i.imgur.com/0db88eV.jpeg" group-title="News",AIK News
@@ -41,12 +43,14 @@ https://webtv2.streamhome.co:1935/live/BOL-TV.stream/playlist.m3u8
 https://webtv2.streamhome.co:1935/live/News-One.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="92 News HD" tvg-logo="https://i.imgur.com/0SLuFJa.jpeg" group-title="News",92 News HD
 https://webtv2.streamhome.co:1935/live/92-news.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Pakistan TV" tvg-logo="https://ebuzz.world/classic/uploads/webtv//e35c32a6cea5fa0f4d8927bd4cc95217.png" group-title="News",Pakistan TV
+https://webtv6.streamhome.co:1935/live/PTV-WORLD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="PTV News" tvg-logo="https://i.imgur.com/vABI7Ty.jpeg" group-title="News",PTV News
 https://webtv2.streamhome.co:1935/live/PTV-News.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Dawn News" tvg-logo="https://i.imgur.com/TAEpbTa.jpeg" group-title="News",Dawn News
 https://webtv2.streamhome.co:1935/live/Dawn-News-480p.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Sindh TV News" tvg-logo="https://i.imgur.com/PRPMCg1.jpeg" group-title="News",Sindh TV News
-https://webtv2.streamhome.co:1935/live/Sindh-TV-News.stream/playlist.m3u8
+https://webtv6.streamhome.co:1935/Transcoded/Sindh-TV.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Brit" tvg-logo="https://i.imgur.com/CNxmW4i.png" group-title="Entertainment",BBC Brit
 https://webtv2.streamhome.co:1935/live/Crime-Investigation.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Lahore News HD" tvg-logo="https://i.imgur.com/Io9T0W8.jpeg" group-title="News",Lahore News HD
@@ -55,14 +59,14 @@ https://webtv2.streamhome.co:1935/live/myCinemaHD.stream/playlist.m3u8
 https://webtv2.streamhome.co:1935/live/CapitalTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="ABB Takk News" tvg-logo="https://i.imgur.com/WIPH67s.jpeg" group-title="News",ABB Takk News
 https://webtv2.streamhome.co:1935/live/ABB-Takk.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Such News HD" tvg-logo="https://i.imgur.com/HmtTsxh.jpeg" group-title="News",Such News HD
-https://webtv2.streamhome.co:1935/live/SuchTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Aan TV HD" tvg-logo="https://ebuzz.world/classic/uploads/webtv/Entertainment/6608aab0bb009f1a451912dbd294c3e2.jpg" group-title="Drama",Aan TV HD
+https://webtv6.streamhome.co:1935/live/AAN-TV-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/Ql1Gy5d.jpeg" group-title="News",Channel News Asia
 https://webtv2.streamhome.co:1935/live/ChannelNewsAsia.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/WVilVAW.jpeg" group-title="News",Bloomberg
 https://webtv2.streamhome.co:1935/live/Bloomberg.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Arabiya" tvg-logo="https://i.imgur.com/oVzUMxU.jpeg" group-title="News",Al Arabiya
-https://webtv2.streamhome.co:1935/live/Al%20Araybia.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="FOX News" tvg-logo="https://ebuzz.world/classic/uploads/webtv//7905836c04f618d8d5e5b0eec625e96b.jpg" group-title="News",Fox News
+https://webtv2.streamhome.co:1935/live/Al Araybia.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT World HD" tvg-logo="https://i.imgur.com/E3RaTRR.jpeg" group-title="News",TRT World HD
 https://webtv2.streamhome.co:1935/live/TRTWorldHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera News" tvg-logo="https://i.imgur.com/b5aaiqL.jpeg" group-title="News",Al Jazeera News
@@ -70,7 +74,7 @@ https://webtv2.streamhome.co:1935/live/AlJazeera.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="France 24 News HD" tvg-logo="https://i.imgur.com/WnRg53h.jpeg" group-title="News",France 24 News HD
 https://webtv2.streamhome.co:1935/live/France24.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Euro News" tvg-logo="https://i.imgur.com/oTgVj3i.jpeg" group-title="News",Euro News
-https://webtv2.streamhome.co:1935/live/Euro-news.stream/playlist.m3u8
+https://webtv6.streamhome.co:1935/Transcoded/Euro-News.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://i.imgur.com/OdaZyY6.jpeg" group-title="News",BBC World News
 https://webtv2.streamhome.co:1935/live/BBC-world-news-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/npCwQVW.jpeg" group-title="News",CNN
@@ -143,6 +147,8 @@ https://webtv2.streamhome.co:1935/live/ARY-Zindagi.stream/playlist.m3u8
 https://webtv2.streamhome.co:1935/live/TV-One.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="PLAY Entertainment" tvg-logo="https://i.imgur.com/t25DMUZ.jpg" group-title="Entertainment",PLAY Entertainment
 https://webtv2.streamhome.co:1935/live/Play-Entertainment.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="KAY 2" tvg-logo="https://ebuzz.world/classic/uploads/webtv//13331ec90a1a2785793ecddd78602e00.jpg" group-title="Entertainment",KAY 2
+https://webtv6.streamhome.co:1935/live/KAY-2.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="BOL Entertainment" tvg-logo="https://i.imgur.com/uQeXKkn.jpg" group-title="Entertainment",BOL Entertainment
 https://webtv2.streamhome.co:1935/live/BOL-Entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Geo Entertainment" tvg-logo="https://i.imgur.com/Jqhuh5R.jpg" group-title="Drama",Geo Entertainment
@@ -153,7 +159,7 @@ https://webtv2.streamhome.co:1935/live/Ary-digital.stream/playlist.m3u8
 https://webtv2.streamhome.co:1935/live/Express-entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Hum TV HD" tvg-logo="https://i.imgur.com/SpKqaC1.jpeg" group-title="Drama",Hum TV HD
 https://webtv2.streamhome.co:1935/live/Hum-tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Urdu 1" tvg-logo="https://i.imgur.com/Cq8EPAl.jpg" group-title="Drama",Urdu 1
+#EXTINF:-1 tvg-name="See TV" tvg-logo="https://ebuzz.world/classic/uploads/webtv//b147ed96e91e911504b1ef1d57a0c13b.jpg" group-title="Drama",See TV
 https://webtv2.streamhome.co:1935/live/Urdu-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Hum Masala" tvg-logo="https://i.imgur.com/LE8eMZe.jpg" group-title="Cooking",Hum Masala
 https://webtv2.streamhome.co:1935/live/Hum-masala.stream/playlist.m3u8
@@ -264,7 +270,7 @@ https://webtv2.streamhome.co:1935/live/HBO-2-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO 3 HD" tvg-logo="https://i.imgur.com/KMkdFaF.jpg" group-title="Hollywood",HBO 3 HD
 https://webtv2.streamhome.co:1935/live/AD%20Sports%202%20HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://i.imgur.com/4oXN1AM.jpg" group-title="Music",MTV
-https://webtv2.streamhome.co:1935/live/VH1.stream/playlist.m3u8
+https://webtv6.streamhome.co:1935/live/MTV-LIVE-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="History" tvg-logo="https://i.imgur.com/UOy0Dha.png" group-title="Science & Documentary",History
 https://webtv2.streamhome.co:1935/live/MTV-Live-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="GEM Onyx HD" tvg-logo="https://i.imgur.com/8Bo9y20.jpeg" group-title="Hollywood",GEM Onyx HD
